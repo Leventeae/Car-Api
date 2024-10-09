@@ -1,0 +1,44 @@
+{
+  "Cars": [
+    {
+      "brand": "Toyota",
+      "fuel_type": "Gasoline",
+      "type": "Sedan",
+      "horsepower": 150,
+      "color": "Blue",
+      "price": 22000
+    },
+    {
+      "brand": "Honda",
+      "fuel_type": "Hybrid",
+      "type": "SUV",
+      "horsepower": 180,
+      "color": "Red",
+      "price": 30000
+    },
+    {
+      "brand": "Ford",
+      "fuel_type": "Diesel",
+      "type": "Truck",
+      "horsepower": 250,
+      "color": "Black",
+      "price": 35000
+    },
+    {
+      "brand": "BMW",
+      "fuel_type": "Electric",
+      "type": "Coupe",
+      "horsepower": 300,
+      "color": "White",
+      "price": 55000
+    },
+    {
+      "brand": "Chevrolet",
+      "fuel_type": "Gasoline",
+      "type": "Convertible",
+      "horsepower": 220,
+      "color": "Yellow",
+      "price": 28000
+    }
+  ]
+}
