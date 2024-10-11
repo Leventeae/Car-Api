@@ -7,7 +7,7 @@ const router = express.Router();
 const readJson = async (path: string): Promise<any> => {
   try {
     const data = await fs.promises.readFile(require.resolve(path), "utf8");
-    return JSON.parse(data);
+    return JSON.parse(data).Cars;
   } catch (err) {
     console.error("Error reading JSON file:", err);
     throw err;

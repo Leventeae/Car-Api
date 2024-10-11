@@ -3,12 +3,14 @@ import cors from "cors";
 import { env, mainConfig } from "./config/config";
 import ErrorResponse from "./middleware/error/ErrorResponse";
 import { MainRouter } from "./api/MainRouter";
+import { FilterRouter } from "./api/FilterRouter";
 import logger from "./logger";
 
 const app = express();
 app.use(cors());
 
 app.use("/v1/api", MainRouter);
+app.use("/v1/api-filter", FilterRouter);
 
 app.use(express.json());
 

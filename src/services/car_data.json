@@ -39,6 +39,150 @@
       "horsepower": 220,
       "color": "Yellow",
       "price": 28000
+    },
+    {
+      "brand": "Volkswagen",
+      "fuel_type": "Gasoline",
+      "type": "Sedan",
+      "horsepower": 120,
+      "color": "Green",
+      "price": 18000
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "fuel_type": "Hybrid",
+      "type": "SUV",
+      "horsepower": 220,
+      "color": "Black",
+      "price": 40000
+    },
+    {
+      "brand": "Nissan",
+      "fuel_type": "Gasoline",
+      "type": "Sedan",
+      "horsepower": 180,
+      "color": "Silver",
+      "price": 25000
+    },
+    {
+      "brand": "Audi",
+      "fuel_type": "Gasoline",
+      "type": "SUV",
+      "horsepower": 250,
+      "color": "Gray",
+      "price": 38000
+    },
+    {
+      "brand": "Tesla",
+      "fuel_type": "Electric",
+      "type": "Sedan",
+      "horsepower": 350,
+      "color": "Red",
+      "price": 60000
+    },
+    {
+      "brand": "Hyundai",
+      "fuel_type": "Gasoline",
+      "type": "SUV",
+      "horsepower": 250,
+      "color": "Blue",
+      "price": 32000
+    },
+    {
+      "brand": "Kia",
+      "fuel_type": "Gasoline",
+      "type": "Sedan",
+      "horsepower": 180,
+      "color": "White",
+      "price": 23000
+    },
+    {
+      "brand": "Porsche",
+      "fuel_type": "Hybrid",
+      "type": "SUV",
+      "horsepower": 250,
+      "color": "Black",
+      "price": 45000
+    },
+    {
+      "brand": "Jaguar",
+      "fuel_type": "Gasoline",
+      "type": "SUV",
+      "horsepower": 250,
+      "color": "Red",
+      "price": 50000
+    },
+    {
+      "brand": "Lamborghini",
+      "fuel_type": "Gasoline",
+      "type": "Sedan",
+      "horsepower": 220,
+      "color": "White",
+      "price": 55000
+    },
+    {
+      "brand": "Mazda",
+      "fuel_type": "Gasoline",
+      "type": "Sedan",
+      "horsepower": 180,
+      "color": "Silver",
+      "price": 20000
+    },
+    {
+      "brand": "Ford",
+      "fuel_type": "Gasoline",
+      "type": "Truck",
+      "horsepower": 250,
+      "color": "Gray",
+      "price": 40000
+    },
+    {
+      "brand": "Toyota",
+      "fuel_type": "Gasoline",
+      "type": "Sedan",
+      "horsepower": 119,
+      "color": "Pink",
+      "price": 27600
+    },
+    {
+      "brand": "Honda",
+      "fuel_type": "Hybrid",
+      "type": "SUV",
+      "horsepower": 180,
+      "color": "Red",
+      "price": 30000
+    },
+    {
+      "brand": "Ford",
+      "fuel_type": "Diesel",
+      "type": "Truck",
+      "horsepower": 250,
+      "color": "Black",
+      "price": 35000
+    },
+    {
+      "brand": "BMW",
+      "fuel_type": "Hybrid",
+      "type": "Coupe",
+      "horsepower": 380,
+      "color": "White",
+      "price": 55000
+    },
+    {
+      "brand": "Chevrolet",
+      "fuel_type": "Gasoline",
+      "type": "Convertible",
+      "horsepower": 220,
+      "color": "Yellow",
+      "price": 25000
+    },
+    {
+      "brand": "Volkswagen",
+      "fuel_type": "Diesel",
+      "type": "Hatchback",
+      "horsepower": 109,
+      "color": "Yellow",
+      "price": 11500
     }
   ]
 }
